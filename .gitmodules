@@ -1,0 +1,3 @@
+[submodule "rubyamp"]
+	path = rubyamp
+	url = git://github.com/timcharper/rubyamp.git
