@@ -7,3 +7,6 @@
 [submodule "Grep.tmbundle"]
 	path = Grep.tmbundle
 	url = git://github.com/wiseleyb/grep_in_project-tm_bundle.git
+[submodule "mediawiki.tmbundle"]
+	path = mediawiki.tmbundle
+	url = git://github.com/textmate/mediawiki.tmbundle.git

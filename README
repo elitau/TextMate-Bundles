@@ -1,1 +1,20 @@
-This is a submodules collection of other Github repositories.
+This is a collection of TextMate Bundles added as git submodules from other repositories.
+
+
+Examples for working with git submodules:
+
+
+Add an external repository
+=========================
+git submodule add git://github.com/dchelimsky/rspec.git rspec
+
+Get data into submodule directory
+=================================
+Before we can actually use our repository, we have to initialise
+and update all the submodules. That's achieved with from the main repository root:
+
+git submodule init
+git submodule update
+
+
+All listed examples and commands are taken from Graeme Mathieson (aka mathie) http://woss.name/blog/2008/4/9/using-git-submodules-to-track-plugins.html.
