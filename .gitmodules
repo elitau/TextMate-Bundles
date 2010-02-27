@@ -4,3 +4,6 @@
 [submodule "GetBundles.tmbundle"]
 	path = GetBundles.tmbundle
 	url = git://github.com/adamsalter/GetBundles.tmbundle.git
+[submodule "Grep.tmbundle"]
+	path = Grep.tmbundle
+	url = git://github.com/wiseleyb/grep_in_project-tm_bundle.git
