@@ -10,3 +10,6 @@
 [submodule "mediawiki.tmbundle"]
 	path = mediawiki.tmbundle
 	url = git://github.com/textmate/mediawiki.tmbundle.git
+[submodule "Ruby.tmbundle"]
+	path = Ruby.tmbundle
+	url = git://github.com/drnic/ruby-tmbundle.git
