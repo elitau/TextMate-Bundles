@@ -1,6 +1,3 @@
-[submodule "rubyamp"]
-	path = rubyamp
-	url = git://github.com/timcharper/rubyamp.git
 [submodule "GetBundles.tmbundle"]
 	path = GetBundles.tmbundle
 	url = git://github.com/adamsalter/GetBundles.tmbundle.git
@@ -10,6 +7,3 @@
 [submodule "mediawiki.tmbundle"]
 	path = mediawiki.tmbundle
 	url = git://github.com/textmate/mediawiki.tmbundle.git
-[submodule "Ruby.tmbundle"]
-	path = Ruby.tmbundle
-	url = git://github.com/drnic/ruby-tmbundle.git
