@@ -13,3 +13,6 @@
 [submodule "Ruby.tmbundle"]
 	path = Ruby.tmbundle
 	url = git@github.com:elitau/ruby-tmbundle.git
+[submodule "cucumber.tmbundle"]
+	path = cucumber.tmbundle
+	url = git://github.com/aslakhellesoy/cucumber-tmbundle.git
