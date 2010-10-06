@@ -16,3 +16,6 @@
 [submodule "cucumber.tmbundle"]
 	path = cucumber.tmbundle
 	url = git://github.com/aslakhellesoy/cucumber-tmbundle.git
+[submodule "AckMate"]
+	path = AckMate
+	url = http://github.com/protocool/AckMate.git
