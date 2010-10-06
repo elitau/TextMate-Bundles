@@ -19,3 +19,9 @@
 [submodule "AckMate"]
 	path = AckMate
 	url = http://github.com/protocool/AckMate.git
+[submodule "ruby-sass.tmbundle"]
+	path = ruby-sass.tmbundle
+	url = git://github.com/charlesr/ruby-sass-tmbundle.git
+[submodule "ruby-haml.tmbundle"]
+	path = ruby-haml.tmbundle
+	url = git://github.com/benhoskings/ruby-haml.tmbundle.git
