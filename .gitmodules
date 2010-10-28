@@ -25,3 +25,6 @@
 [submodule "ruby-haml.tmbundle"]
 	path = ruby-haml.tmbundle
 	url = git://github.com/benhoskings/ruby-haml.tmbundle.git
+[submodule "RSpec.tmbundle"]
+	path = RSpec.tmbundle
+	url = git://github.com/rspec/rspec-tmbundle.git
